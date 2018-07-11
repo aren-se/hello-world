@@ -1,4 +1,4 @@
-# hello-world
+# hello-zooniverse
 This is a test ... I'm aspiring to data/machine learning/ai for personal interest and the greater good.
 
 Currently taking Udacity's Data Analyst nanodegree ... on Github to learn to post my questions.
